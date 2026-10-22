@@ -6,7 +6,7 @@ This document outlines the collaborative work division for our machine learning 
 
 ## Phase 1: Data Audit, Cleaning & Preprocessing
 
-### Member 1
+### AZEMO LEKANE CAREL
 * **Data Loading & EDA:** Load the dataset, check dimensions (768 rows, 9 columns), and run summary statistics (`df.describe()`).
 * **Feature Scaling:** Implement feature normalization using Scikit-Learn's `StandardScaler` to standardize numerical inputs.
 * **Visualizations:** Create distribution plots or feature correlation heatmaps using Matplotlib/Seaborn.
@@ -20,7 +20,7 @@ This document outlines the collaborative work division for our machine learning 
 
 ## Phase 2: Baseline Model ($M0$) & Single Neuron ($M1$)
 
-### Member 1
+### AZEMO LEKANE CAREL
 * **Baseline Model ($M0$):** Train a Scikit-learn classifier (like Logistic Regression) on the training set.
 * **Baseline Evaluation:** Evaluate $M0$ on the validation set and compute baseline accuracy and confusion matrix.
 
@@ -33,7 +33,7 @@ This document outlines the collaborative work division for our machine learning 
 
 ## Phase 3: Multi-Layer Perceptron ($M2$) & Optimization
 
-### Member 1
+### AZEMO LEKANE CAREL
 * **MLP Architecture ($M2$):** Build the multi-layer neural network with hidden layers and non-linear activation functions (e.g., ReLU).
 * **Forward/Backward Passes:** Set up the forward propagation and backpropagation pipeline for $M2$.
 
@@ -46,7 +46,7 @@ This document outlines the collaborative work division for our machine learning 
 
 ## Phase 4: Final Evaluation, Comparison & Documentation
 
-### Member 1
+### AZEMO LEKANE CAREL
 * **Test Set Evaluation:** Run the final unseen test set through the trained models ($M0$, $M1$, and $M2$).
 * **Core Metrics Calculation:** Compute final Precision, Recall, F1-Score, and Accuracy matrices.
 
