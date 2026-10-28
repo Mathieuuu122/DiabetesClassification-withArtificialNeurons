@@ -9,7 +9,7 @@ This document outlines the collaborative work division for our machine learning 
 ### AZEMO LEKANE CAREL
 * **Data Loading & EDA:** Load the dataset, check dimensions (768 rows, 9 columns), and run summary statistics (`df.describe()`).
 * **Feature Scaling:** Implement feature normalization using Scikit-Learn's `StandardScaler` to standardize numerical inputs.
-* **Visualizations:** Create distribution plots or feature correlation heatmaps using Matplotlib/Seaborn.
+* **Visualizations:** Create distribution plots or feature correlation heatmaps using Matplotlib.
 
 ### KUIATE MESSADO MATHIEU
 * **Handling Zero-Values:** Identify biologically impossible zero-values (Glucose, Blood Pressure, BMI, etc.) and write the code for median imputation.
