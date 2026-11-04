@@ -13,8 +13,8 @@ This document outlines the collaborative work division for our machine learning 
 
 ### KUIATE MESSADO MATHIEU
 * **Handling Zero-Values:** Identify biologically impossible zero-values (Glucose, Blood Pressure, BMI, etc.) and write the code for median imputation.
-* **Class Distribution Check:** Analyze target balance (`Outcome` column) and check for class imbalance issues.
 * **Data Splitting:** Write the stratification code to split the dataset into Train (60%), Validation (20%), and Test (20%) sets.
+* **Class Distribution Check:** Analyze target balance (`Outcome` column) and check for class imbalance issues on the training dataset.
 
 ---
 
